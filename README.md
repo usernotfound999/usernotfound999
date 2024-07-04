@@ -7,6 +7,6 @@ Hello guys! Here is UserNotFound. I'm new, really newww, so if my code have any 
 <br>Oh btw, i'm Chinese so you can speak Chinese to me. 🇨🇳
 
 Here is some of my statuses:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usernotfound999&show_icons=true&theme=tokyonight)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usernotfound999&show_icons=true&theme=tokyonight)
 
 Bye! Have a nice day. 😊
